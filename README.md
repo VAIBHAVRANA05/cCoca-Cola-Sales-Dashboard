@@ -31,9 +31,6 @@ This project presents a **Coca-Cola USA Retailer Dashboard** created in **Micros
 2. Use slicers to filter data by region (Midwest, Northeast, South, Southeast, West).  
 3. Analyze sales variance and quarterly trends for actionable business insights.
 
-### Sample Visual
-![Dashboard Screenshot](./Screenshot_2025-02-07_211301.png)
-
 ### Key Insights
 - Coca-Cola sales increased significantly in 2023, with a variance of **$1,769,873** compared to 2022.  
 - Dasani Water and Diet Coke also experienced notable growth.  
